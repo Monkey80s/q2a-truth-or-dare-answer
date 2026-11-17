@@ -21,5 +21,4 @@ Before submitting an answer, users can spin the two-tone roulette wheel to land 
 
 1. Download the latest release or clone this repository into your Q2A `qa-plugin/` directory[cite: 27]:
    ```bash
-   cd qa-plugin/
-   git clone [https://github.com/yourusername/q2a-truth-or-dare-answer.git](https://github.com/yourusername/q2a-truth-or-dare-answer.git)
+   git clone https://github.com/Monkey80s/q2a-truth-or-dare-answer.git
