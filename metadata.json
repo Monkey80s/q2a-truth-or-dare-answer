@@ -1,0 +1,13 @@
+{
+  "name": "Truth or Dare Roulette (Answers)",
+  "uri": "https://routters.vip",
+  "description": "Adds a customizable two-tone Truth or Dare roulette wheel above the answer form, inserting a dynamic PNG result badge.",
+  "version": "1.0.3",
+  "date": "2026-11-17",
+  "author": "Monkey",
+  "author_uri": "https://routters.vip",
+  "license": "GPLv2",
+  "min_q2a": "1.7",
+  "min_php": "7.4",
+  "load_order": "after_db_init"
+}
